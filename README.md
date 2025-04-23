@@ -80,6 +80,7 @@ Name | Website | Region
 [Aula Education](/company-profiles/aula.md) | https://aula.education/ | Worldwide
 [Auth0](/company-profiles/auth0.md) | https://auth0.com/ | Worldwide
 [Automattic](/company-profiles/automattic.md) | https://automattic.com/ | Worldwide
+[Avadium](/company-profiles/avadium.md) | https://www.avadiumdesign.com/ | Worldwide
 [Axelerant](/company-profiles/axelerant.md) | https://axelerant.com/ | Worldwide
 [Axios](/company-profiles/axios.md) | https://axios.com/ | USA
 [Bairesdev](/company-profiles/bairesdev.md) | https://bairesdev.com/ | Worldwide
